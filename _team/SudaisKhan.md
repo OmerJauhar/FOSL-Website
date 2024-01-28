@@ -5,5 +5,5 @@ image: "images/team/Sudais.jpeg"
 jobtitle: "DEVELOPER"
 linkedinurl: "https://www.linkedin.com/in/sudaisk/"
 promoted: true
-weight: 5
+weight: 3
 ---

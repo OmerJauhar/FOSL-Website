@@ -5,5 +5,5 @@ image: "images/team/Zubair-Maqbool.jpeg"
 jobtitle: "DATA ANALYST"
 linkedinurl: "https://www.linkedin.com/in/muhammad-zubair-maqbool/"
 promoted: true
-weight: 5
+weight: 2
 ---
